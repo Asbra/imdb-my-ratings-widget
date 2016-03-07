@@ -22,9 +22,9 @@ Project contains 2 templates, one HTML and one image; [HTML widget](https://dev.
 ### Information
 Set GET variable `debug` if you want to skip cache.
 
-[includes/imdb.inc](includes/imdb.inc) contains the IMDb scraping
-[index.php](index.php) entry point, calls `imdb.inc` to get data, handles templating and cache
+* [includes/imdb.inc](includes/imdb.inc) contains the IMDb scraping
+* [index.php](index.php) entry point, calls `imdb.inc` to get data, handles templating and cache
 
 #### Templates
-[templates](templates/) folder contains templates, here you change the appearance of the widget
-Edit `main.inc`, minify it to `main.min.inc` and it will be used. If `main.min.inc` doesn't exist, `main.inc` is used.
+* [templates](templates/) folder contains templates, here you change the appearance of the widget
+* Edit `main.inc`, minify it to `main.min.inc` and it will be used. If `main.min.inc` doesn't exist, `main.inc` is used.
