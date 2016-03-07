@@ -1,7 +1,8 @@
 # IMDb "recently rated" widget
 Scrape IMDb to create a widget displaying the latest IMDb items you've rated, what score, link to it, and cover art
 
-Project contains 2 templates, one HTML and one image; [HTML widget](https://dev.asbra.net/imdb/?u=ur33819608) [Image widget](https://dev.asbra.net/imdb/?u=ur33819608&t=2)
+Project contains 2 templates, one HTML and one image; [HTML widget](https://dev.asbra.net/imdb/?u=ur33819608), [Image widget](https://dev.asbra.net/imdb/?u=ur33819608&t=2)
+![IMDb my ratings widget](screenshot.png)
 
 [Article for this project](https://asbra.net/php-imdb-my-ratings-widget/) (link to my blog)
 
